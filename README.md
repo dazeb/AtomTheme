@@ -4,7 +4,7 @@ A Nuxt 3 starter template with AtomTheme, TailwindCSS, PostCSS, Flowbite, HyperU
 
 ## Demo
 
-[Demo](https://nuxt3-atom-theme.vercel.app/)
+[Demo](https://atom-theme.vercel.app/)
 
 ## Dark Theme
 
