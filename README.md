@@ -4,15 +4,9 @@ A Nuxt 3 starter template with AtomTheme, TailwindCSS, PostCSS, Flowbite, HyperU
 
 ## Demo
 
-[Demo](https://atom-theme.vercel.app/)
+[Demo](https://atom-theme.vercel.app/) 
 
-## Dark Theme
-
-![Image Title](/atomtheme-dark.png)
-
-## Light Theme
-
-![Image Title](/atomtheme-light.png)
+[Screenshots below](https://github.com/dazeb/AtomTheme/edit/main/README.md#dark-theme)
 
 ## Includes
 
@@ -29,6 +23,11 @@ A Nuxt 3 starter template with AtomTheme, TailwindCSS, PostCSS, Flowbite, HyperU
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
 ## Setup
+
+Enable corepack (this will enable npm, yarn and pnpm) install pnpm if you dont have it `npm i -g pnpm`.
+```bash
+corepack enable
+```
 
 Make sure to install the dependencies:
 
@@ -63,3 +62,15 @@ pnpm preview
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+
+## Dark Theme
+
+![Image Title](/atomtheme-dark.png)
+
+## Light Theme
+
+![Image Title](/atomtheme-light.png)
+
+## Lottie Files  
+Lottie files are animated .svg. Open `components/AnimatedHead.vue` to change the link, some alternatives are in the comments.
+
