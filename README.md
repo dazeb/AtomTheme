@@ -18,7 +18,7 @@ A Nuxt 3 starter template with AtomTheme, TailwindCSS, PostCSS, Flowbite, HyperU
 :sparkles: [NuxtIcon](https://github.com/nuxt-modules/icon)  
 :star2: [VueUse](https://vueuse.org)  
 :fire: [Lotti Animated Images](https://vue3-lottie.vercel.app/)  
-🌀 [Nuxt DevTools](https://devtools.nuxtjs.org/)
+![skill-icons-nuxtjs-dark](https://github.com/dazeb/dazeb/assets/67932890/533d2193-5c9a-4987-a6a1-5b4d3c0b3fe6) [Nuxt DevTools](https://devtools.nuxtjs.org/)
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
