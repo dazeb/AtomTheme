@@ -15,9 +15,9 @@ export default defineNuxtConfig({
   //   },
   // },
 
-  alias: {
-    assets: "/<rootDir>/assets",
-  },
+  // alias: {
+  //   assets: "/<rootDir>/assets",
+  // },
 
   css: [
     // Load a Node.js module directly (here it's a Sass file)

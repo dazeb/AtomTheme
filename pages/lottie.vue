@@ -4,13 +4,12 @@ import { initFlowbite } from "flowbite";
 
 // initialize components based on data attribute selectors
 onMounted(() => {
-    initFlowbite();
+  initFlowbite();
 });
 </script>
 
 <template>
-    <SubHero />
+  <SubHero />
 </template>
 
-<style lang="scss">
-</style>
+<style lang="scss"></style>

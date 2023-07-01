@@ -1,9 +1,8 @@
 <script setup>
 definePageMeta({
-    layout: "custom",
+  layout: "custom",
 });
 </script>
 <template>
-    <div class="CustomPage">Custom Page
-    </div>
+  <div class="CustomPage">Custom Page</div>
 </template>

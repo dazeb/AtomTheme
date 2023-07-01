@@ -1,8 +1,12 @@
 <template>
-    <client-only>
-        <Vue3Lottie animationLink="https://assets2.lottiefiles.com/packages/lf20_GbabwrUY2k.json" :height="400" :width="400"
-            :pause-on-hover="true" />
-    </client-only>
+  <client-only>
+    <Vue3Lottie
+      animationLink="https://assets2.lottiefiles.com/packages/lf20_GbabwrUY2k.json"
+      :height="400"
+      :width="400"
+      :pause-on-hover="true"
+    />
+  </client-only>
 </template>
 
 <!-- https://assets1.lottiefiles.com/packages/lf20_045azgm7Xf.json - 1

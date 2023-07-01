@@ -1,7 +1,7 @@
 <script setup>
 import { onMounted } from "vue";
 import { initFlowbite } from "flowbite";
-import 'vue3-lottie/dist/style.css'
+
 
 // initialize components based on data attribute selectors
 onMounted(() => {
@@ -10,7 +10,7 @@ onMounted(() => {
 </script>
 
 <template>
-  <div class="dark:bg-gray-900 bg-white">
+  <div class="bg-white dark:bg-gray-900">
     <NuxtLayout>
       <NuxtPage />
     </NuxtLayout>

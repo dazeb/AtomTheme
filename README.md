@@ -3,14 +3,16 @@
 A Nuxt 3 starter template with AtomTheme, TailwindCSS, PostCSS, Flowbite, HyperUI, DarkTheme/ColorMode, NuxtIcon, VueUse, Lotti Animated Images, Nuxt DevTools.
 
 ## Demo
+
 [Demo](https://nuxt3-atom-theme.vercel.app/)
 
 ## Dark Theme
+
 ![Image Title](/atomtheme-dark.png)
 
 ## Light Theme
-![Image Title](/atomtheme-light.png)
 
+![Image Title](/atomtheme-light.png)
 
 ## Includes
 
@@ -23,7 +25,6 @@ A Nuxt 3 starter template with AtomTheme, TailwindCSS, PostCSS, Flowbite, HyperU
 :star2: [VueUse](https://vueuse.org)  
 :fire: [Lotti Animated Images](https://vue3-lottie.vercel.app/)  
 🌀 [Nuxt DevTools](https://devtools.nuxtjs.org/)
-
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
