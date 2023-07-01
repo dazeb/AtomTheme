@@ -38,5 +38,5 @@ export default defineNuxtConfig({
     "@vueuse/nuxt",
   ],
 
-  plugins: ["~/plugins/vercel.js", "~/plugins/Vue3Lottie.client.ts"],
+  plugins: ["~/plugins/Vue3Lottie.client.ts", "~/plugins/vercel.js"],
 });
