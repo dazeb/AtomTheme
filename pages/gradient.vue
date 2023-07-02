@@ -11,7 +11,7 @@
 <template>
     <div class="MainPage">
         <MainHero />
-        <LinkGrid />
+        <LinkGridTwo />
     </div>
 </template>
 
