@@ -24,6 +24,7 @@
     "postcss": "^8.4.24",
     "postcss-import": "^15.1.0",
     "prettier": "2.8.8",
+    "sass": "^1.63.6",
     "tailwindcss": "latest",
     "vue3-lottie": "^3.0.0"
   },
@@ -31,7 +32,6 @@
     "@headlessui/vue": "^1.7.14",
     "@heroicons/vue": "^2.0.18",
     "@vercel/analytics": "^1.0.1",
-    "flowbite": "latest",
-    "sass": "^1.63.5"
+    "flowbite": "latest"
   }
 }
